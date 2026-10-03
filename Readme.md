@@ -1,34 +1,31 @@
 **SQL-Data-Analytics/**
-│
-├── 01_Basics/
-│   ├── 01_SELECT.sql
-│   ├── 02_WHERE.sql
-│   ├── 03_DISTINCT.sql
-│   ├── 04_ORDER_BY.sql
-│   ├── 05_LIMIT.sql
-│   ├── 06_ALIASES.sql
-│   ├── 07_ARITHMETIC_OPERATORS.sql
-│   ├── 08_COMPARISON_OPERATORS.sql
-│   ├── 09_LOGICAL_OPERATORS.sql
-│   ├── 10_LIKE.sql
-│   ├── 11_IN.sql
-│   ├── 12_BETWEEN.sql
-│   ├── 13_IS_NULL.sql
-│   ├── 14_CASE.sql
-│   ├── 15_AGGREGATE_FUNCTIONS.sql
-│   ├── 16_GROUP_BY.sql
-│   └── 17_HAVING.sql
-│
-├── 02_Intermediate/
-│   ├── 01_INNER_JOIN.sql
-│   ├── 02_LEFT_JOIN.sql
-│   ├── 03_RIGHT_JOIN.sql
-│   ├── 04_FULL_OUTER_JOIN.sql
-│   ├── 05_SELF_JOIN.sql
-│   ├── 06_UNION.sql
-│   ├── 07_UNION_ALL.sql
-│   ├── 08_SUBQUERIES.sql
-│   ├── 09_CORRELATED_SUBQUERY.sql
+01_Basics/
+── 01_SELECT.sql
+─ 02_WHERE.sql
+── 03_DISTINCT.sql
+─ 04_ORDER_BY.sql
+─ 05_LIMIT.sql
+─ 06_ALIASES.sql
+─ 07_ARITHMETIC_OPERATORS.sql
+─ 08_COMPARISON_OPERATORS.sql
+─ 09_LOGICAL_OPERATORS.sql
+─ 10_LIKE.sql
+── 11_IN.sql
+─ 12_BETWEEN.sql
+─ 13_IS_NULL.sql
+─ 14_CASE.sql
+─ 15_AGGREGATE_FUNCTIONS.sql
+─ 16_GROUP_BY.sql
+─ 17_HAVING.sql
+
+ 02_Intermediate/
+─ 03_RIGHT_JOIN.sql
+─ 04_FULL_OUTER_JOIN.sql
+── 05_SELF_JOIN.sql
+─ 06_UNION.sql
+─ 07_UNION_ALL.sql
+─ 08_SUBQUERIES.sql
+─ 09_CORRELATED_SUBQUERY.sql
 │   ├── 10_CTE.sql
 │   ├── 11_STRING_FUNCTIONS.sql
 │   ├── 12_DATE_FUNCTIONS.sql
